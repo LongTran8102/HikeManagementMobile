@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HikeManagementApp</string>
+    <string-array name="options">
+        <item>Parking available</item>
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+    <string-array name="types">
+        <item>Type of hike</item>
+        <item>Long hike</item>
+        <item>Short hike</item>
+    </string-array>
+</resources>
